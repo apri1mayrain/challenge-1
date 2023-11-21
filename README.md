@@ -11,6 +11,9 @@ Preview of Horiseon's homepage:
 
 ![](/assets/images/horiseon.png)
 
+## Demo
+GitHub Pages site: https://apri1mayrain.github.io/horiseon-semantic-challenge/
+
 ## Installation
 
 N/A
